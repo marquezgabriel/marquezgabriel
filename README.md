@@ -19,7 +19,7 @@ Passionate and emerging mobile app developer 🧑‍💻. Navigating the conflue
 [![](https://visitcount.itsvg.in/api?id=marquezgabriel&icon=0&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@maverickmtl) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/maverickmtl) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
