@@ -1,5 +1,5 @@
 # 📲 About Me:
-Software Engineer & Systems Admin by day, cloud student by night 🌥️ • On a quest to master iOS development with Swift and bring my app ideas to life on the Apple Store. I am also on a journey through the clouds, seeking AWS mastery to broaden my horizons. 🚀
+Software Engineer & Systems Admin by day, Cloud student by night 🌥️ • On a quest to master iOS development and bring my app ideas to life on the Apple Store. I am also on a journey through the clouds, seeking AWS mastery to broaden my horizons. 🚀
 
 I am a proud architect behind automating server maintenance for more than 1,000 servers, liberating time and creativity for my team. My mission: empowering people and organizations to excel through innovative software solutions and automation. 🛠️ 
 
