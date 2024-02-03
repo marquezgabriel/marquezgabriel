@@ -1,5 +1,13 @@
 # 📲 About Me:
-Passionate and emerging mobile app developer 🧑‍💻. Navigating the confluence of knowledge 📚, technology 🤖, and financial literacy 🕊️. Transforming dreams into code, one line at a time. Embracing opportunities for growth and collaboration!
+Software Engineer & Systems Admin by day, aspiring cloud expert in the making 🌥️ • On a quest to master iOS development with Swift and bring my app ideas to life on the Apple Store. I am on a journey through the clouds, seeking also AWS mastery to broaden my horizons. 🚀
+
+I am a proud architect behind automating server maintenance for more than 1,000 servers, liberating time and creativity for my team. My mission: empowering people and organizations to excel through innovative software solutions and automation. 🛠️ 
+
+Beyond the screen, I'm a photographer at heart, an avid reader, and a lifelong learner who enjoys continuous discovery. 📚📸
+
+I believe in a world where technology liberates us to pursue creativity and innovation. My goal? Financial Independence to tribute meaningfully to my community and beyond. 💖
+
+Let's build a future where technology amplifies our potential. #TechForGood #InnovationDriven #CommunityBuilder
 
 
 ## 🌎 Socials:
