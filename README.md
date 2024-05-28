@@ -5,7 +5,7 @@ I am a proud architect behind automating server maintenance for more than 1,000 
 
 Beyond the screen, I'm a photographer at heart, an avid reader, and a lifelong learner who enjoys continuous discovery. 📚📸
 
-I believe in a world where technology liberates us to pursue creativity and innovation. My goal? Financial Independence to tribute meaningfully to my community and beyond. 💖
+I believe in a world where technology liberates us to pursue creativity and innovation. My goal? Financial Independence to contribute meaningfully to my community and beyond. 💖
 
 Let's build a future where technology amplifies our potential. #TechForGood #InnovationDriven #CommunityBuilder
 
