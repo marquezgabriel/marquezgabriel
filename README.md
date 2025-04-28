@@ -1,15 +1,9 @@
 # 📲 About Me:
-My passion lies in harnessing the power of automation to transform challenges into opportunities. By automating server operations for over 1,000 servers, I've reduced overtime costs by 90%. 
+I help creators and small businesses get the most out of their Apple devices to work smarter, create and share stories that connect with people.
 
-My technical toolkit is rich with expertise in iOS development, cloud computing with AWS, and creating scalable solutions across software-defined data centers. 🚀
+Inspired by a love for simplicity and powerful technology, I partner with passionate organizations to bring their best ideas to life with  Apple devices.
 
-I am a proud architect behind automating server maintenance for more than 1,000 servers, liberating time and creativity for my team. My mission: empowering people and organizations to excel through innovative software solutions and automation. 🛠️ 
-
-Beyond the screen, I'm a photographer at heart, an avid reader, and a lifelong learner who enjoys continuous discovery. 📚📸
-
-I believe in a world where technology liberates us to pursue creativity and innovation. My goal? Financial Independence to contribute meaningfully to my community and beyond. 💖
-
-Let's build a future where technology amplifies our potential. #TechForGood #InnovationDriven #CommunityBuilder
+My mission is to make technology feel easy and exciting, empowering individuals and teams to unlock the full potential of Apple’s ecosystem.
 
 
 ## 🌎 Socials:
